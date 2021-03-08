@@ -22,7 +22,8 @@
     "mongoose": "^5.10.2",
     "nodemon": "^2.0.7",
     "pizzip": "^3.0.6",
-    "runkit": "^0.0.8"
+    "runkit": "^0.0.8",
+    "ts-node": "^9.1.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.7",
@@ -38,7 +39,7 @@
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.1",
-    "ts-node-dev": "^1.0.0-pre.62",
-    "typescript": "^4.0.2"
+    "typescript": "^4.0.2",
+    "ts-node-dev": "^1.0.0-pre.62"
   }
 }
