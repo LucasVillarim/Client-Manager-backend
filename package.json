@@ -2,14 +2,13 @@
   "engines": {
     "node": "14.x"
   },
-  "type": "module",
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "start": "nodemon src/server.ts",
+    "start": "ts-node src/server.ts",
     "dev": "ts-node-dev --ignore-watch node_modules src/server.ts"
   },
   "dependencies": {
